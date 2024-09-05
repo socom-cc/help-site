@@ -49,8 +49,10 @@ For SOCOM: FTB 1, you may also need the [infra plugin v1.0.7](https://static.soc
 Open the `ppsspp.ini` configuration file in a text editor (close PPSSPP first if it's running).  
 The file is located in PPSSPP's `memstick` folder, then in `PSP/SYSTEM/`.  
 Find/add the following entries:
+
 #### `General` section
 - `EnablePlugins = True`
+  
 #### `Network` section
 - `PrimaryDNSServer = 67.222.156.250`
 
