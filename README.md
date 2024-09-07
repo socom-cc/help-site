@@ -15,7 +15,7 @@ Get the latest PPSSPP build with support for the infrastructure mode:
 - [PPSSPP infra v1.16 MacOS (SDL)](https://static.socom.cc/ppsspp/infra_mac/PPSSPP_1.16.6-806-g787afaa7c_infra_mac.zip)
 - [PPSSPP infra v1.16 Linux (SDL)](https://static.socom.cc/ppsspp/infra_linux/PPSSPP_1.16.6-806-787afaa_infra_linux_SDL.zip)
 - [PPSSPP infra v1.16 Android](https://static.socom.cc/ppsspp/infra_android/PPSSPP_1.16.6_infra_android.apk) ([recommended default ppsspp.ini file](https://static.socom.cc/ppsspp/infra_android/ppsspp.ini))
-- [PPSSPP infra v1.16 iOS](https://static.socom.cc/ppsspp/infra_ios/PPSSPP_1.16.6-804-gbfa42b89a_infra_iOS.ipa) ([recommended default ppsspp.ini file](https://static.socom.cc/ppsspp/infra_ios/ppsspp.ini))
+- [PPSSPP infra v1.16 iOS](https://static.socom.cc/ppsspp/infra_ios/PPSSPP_1.16.6-606_infra_iOS.ipa) ([recommended default ppsspp.ini file](https://static.socom.cc/ppsspp/infra_ios/ppsspp.ini))
 - [See all the available builds here](https://static.socom.cc/ppsspp/)
 
 Note the Windows infrastructure build is known for having issues with some revived infrastructure games.  
