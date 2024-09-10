@@ -22,8 +22,32 @@ Note the Windows infrastructure build is known for having issues with some reviv
 In that case, you might wanna use the Linux infrastructure build under [WSL](https://learn.microsoft.com/en-us/windows/wsl/about).  
 For SOCOM: FTB 1, you may also need the [infra plugin v1.0.7](https://static.socom.cc/plugins/infra_plugin_107.zip).
 
-## Guides & Video Tutorials
+## PPSSPP Online Games Guides & Video Tutorials
 
+<ins>SOCOM Fireteam Bravo 1 & 2<ins>
+
+Windows:
+  - [Video Tutorial](https://youtu.be/rAojx8ql96Q?si=w9AVnncLJBRK2-o2)
+  - [Written Guide](https://rentry.co/y2vy42ei)
+
+MacOS:
+  - [Written Guide](https://rentry.co/iqmtmtus)
+
+Linux:
+  (Coming soon!)
+
+Android:
+  - [Video Tutorial](https://youtu.be/t87d_v_dLPw?si=VNEINASXB_2O9Uu2)
+  - [Written Guide](https://rentry.co/du5utv6m)
+
+iOS:
+  - [Written Guide](https://rentry.co/ffdzhors)
+
+Steam Deck:
+  - [Written Guide](https://rentry.co/9bsmyxue)
+
+Nintendo Switch:
+  - [Written Guide](https://rentry.co/bnb3m8u9)
 
 
 ## Recommended PPSSPP settings
