@@ -22,6 +22,10 @@ Note the Windows infrastructure build is known for having issues with some reviv
 In that case, you might wanna use the Linux infrastructure build under [WSL](https://learn.microsoft.com/en-us/windows/wsl/about).  
 For SOCOM: FTB 1, you may also need the [infra plugin v1.0.7](https://static.socom.cc/plugins/infra_plugin_107.zip).
 
+## Guides & Video Tutorials
+
+
+
 ## Recommended PPSSPP settings
 
 ### Graphics
